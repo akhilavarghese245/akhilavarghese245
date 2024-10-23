@@ -8,7 +8,7 @@ I am Software Engineer who loves Web Development
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [akhilavarghese174@gmail.com](mailto:akhilavarghese174@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Node JS
 * 🤝  I'm open to collaborating on Web application projects
 
 ### Skills
